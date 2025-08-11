@@ -1,4 +1,4 @@
-# papel_pedra_tesoura/
+# papel_pedra_tesoura
 
 - game.py              # Arquivo principal (executável)
 - engine.py            # Lógica do jogo (funções e regras)
